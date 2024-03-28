@@ -260,3 +260,4 @@
 {"error":"{\"Error_GUID\":\"1735350267995171958\",\"Error\":\"Failed all relay retries due to timeout consider adding 'lava-relay-timeout' header to extend the allowed timeout duration {GUID:1735350267995171958}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x710c9048a"}
 {"jsonrpc":"2.0","id":1,"result":"0x5ebf5c5bc"}
+{"error":"{\"Error_GUID\":\"8157259369860440704\",\"Error\":\"Failed all retries {GUID:8157259369860440704,error:rpc error: code = DeadlineExceeded desc = context deadline exceeded,chain_id:ETH1}\"}"}
